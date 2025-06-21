@@ -5,7 +5,7 @@ Exploratory Data Analysis on a retail sales dataset with business insights.
 This project explores a synthetic retail sales dataset using Python (Pandas, Seaborn, Matplotlib) to uncover valuable business insights.  
 The dataset contains 15,000 transactions including date, product details, pricing, payment methods, and store/customer information.
 
-## 📊 Key Analysis Performed
+##  Key Analysis Performed
 - **Revenue trends** over months and years
 - **Top-selling product categories**
 - **Store location performance**
